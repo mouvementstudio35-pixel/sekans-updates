@@ -6,3 +6,5 @@ Chaque paquet (`clients/<id>/<version>.maj`) est chiffré (AES-256-GCM) avec la 
 `<id>` est dérivé de la licence et ne révèle ni le nom du client ni sa clé.
 
 Publié par `installer/publier-maj.sh` (dépôt sekans-studio).
+
+`clients/<id>/statut.json` (facultatif) : `{"statut":"suspendu"}` met les nouveaux montages du poste en pause. Absent = actif.
