@@ -1,9 +1,9 @@
 {
- "version": "20261016.1224",
- "date": "2026-10-16T12:24:59.652Z",
- "notes": "Nouvelle miniature du style Tom&Co — parole.",
- "file": "20261016.1224.maj",
- "sha256": "1c549b553d0bd40832b11482ee35f2de85cbfd635d5ed9cd4e509c03c119c886",
- "size": 6057574,
- "signature": "PCfF8jMDNakefWVzU1F0ZMJJk3v71mgfR+yMqzJXVeJe7t90mS/euLrNj/muz8sqHnCFQfy+iXCmdcFmi3MqDg=="
+ "version": "20261016.1305",
+ "date": "2026-10-16T13:05:07.924Z",
+ "notes": "Nouveau : encart « Description du montage » (facultatif) pour adapter un montage. Les rushs dans iCloud sont acceptés : téléchargement automatique avec un avertissement. Nouvelle miniature Tom&Co — parole.",
+ "file": "20261016.1305.maj",
+ "sha256": "36da0096d57c03616a44e9e163c71cd161d443ee888ddfa0486210874bb01fb2",
+ "size": 30122753,
+ "signature": "FtiSU9rXprxkO9Buj3lPe2wlrIP0evSFcYz6iFQ26tq9+/KETL/tqD0t7rxSCkrrCeLyx+YvoQ5NXBU48JXqCg=="
 }
