@@ -1,9 +1,9 @@
 {
- "version": "20261016.1357",
- "date": "2026-10-16T13:57:29.531Z",
- "notes": "Retours : le bouton « Ajouter » fonctionne avec un dessin (un dessin seul suffit), et le monteur voit la zone dessinée. Diagnostic à distance.",
- "file": "20261016.1357.maj",
- "sha256": "5e9a914ecb6ef248e18782ed66746c691c79a7828e8283819733fa59c669ec83",
- "size": 38555696,
- "signature": "bH/HRcvaK+JnmbOVijAlyhAkh0o9rtgS8heLVhN0FpF6ZoUUIVmdeOsfb8NqDnBRh8xXVYuI4wKGOZf1LNzTBQ=="
+ "version": "20261016.1428",
+ "date": "2026-10-16T14:28:46.827Z",
+ "notes": "Cliquez sur la pastille Claude (en bas à gauche) pour voir l'usage de votre abonnement : session de 5 h et semaine. Elle passe à l'orange vers 90 % et au rouge à la limite.",
+ "file": "20261016.1428.maj",
+ "sha256": "0f0009374b2acf716dad539c2ad8d0b29147308080aa235f72d73a271a8d67aa",
+ "size": 38558764,
+ "signature": "UP5sjazRvVUuTqo4j5b1KHsUeRA9JvZ/ZneeBagDfhzwnN8yjAj42pTx6Wnsgt2EDNe2jvcvcjQHSQZz7+idDQ=="
 }
