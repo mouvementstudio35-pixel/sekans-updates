@@ -1,9 +1,9 @@
 {
- "version": "20261016.1428",
- "date": "2026-10-16T14:28:46.827Z",
- "notes": "Cliquez sur la pastille Claude (en bas à gauche) pour voir l'usage de votre abonnement : session de 5 h et semaine. Elle passe à l'orange vers 90 % et au rouge à la limite.",
- "file": "20261016.1428.maj",
- "sha256": "0f0009374b2acf716dad539c2ad8d0b29147308080aa235f72d73a271a8d67aa",
- "size": 38558764,
- "signature": "UP5sjazRvVUuTqo4j5b1KHsUeRA9JvZ/ZneeBagDfhzwnN8yjAj42pTx6Wnsgt2EDNe2jvcvcjQHSQZz7+idDQ=="
+ "version": "20261016.2139",
+ "date": "2026-10-16T21:39:25.230Z",
+ "notes": "Plusieurs comptes Metricool (un par client) connectés en un clic, choix de la marque à la publication, description automatique pour tous les styles. Une fenêtre « Nouveautés » vous présente tout ça au redémarrage.",
+ "file": "20261016.2139.maj",
+ "sha256": "f140deb78c5daebbf950e436fea14e6a7b1cfa90338247fe7fc1a17ecc76ad8e",
+ "size": 40201631,
+ "signature": "VeGFc4LCTP5v+/h7wFbenin7hqH0BUxl3VscwJOSvcDHoh0gk1jxcVazfWgF8Ans49QEZJj1YuUwPE+oICErDQ=="
 }
