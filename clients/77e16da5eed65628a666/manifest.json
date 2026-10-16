@@ -1,9 +1,9 @@
 {
- "version": "20261016.1350",
- "date": "2026-10-16T13:50:50.252Z",
- "notes": "Diagnostic à distance : Sekans peut voir l'état de ce poste pour vous dépanner plus vite. Nouvelles miniatures, description du montage, rushs iCloud acceptés.",
- "file": "20261016.1350.maj",
- "sha256": "f622f1d63f69f0545cbd9ad7914b73f83ccdb1db9b07dbecb8a1db5b52d26c11",
- "size": 38555165,
- "signature": "lc4chdvERYLFo3+VQSEOxN8B/nlm2UV0i0ZV7/rzG8Z0a3iCeNzwciSQoLLFJBwoAt9v/tHIKX56MtgLFgIMAg=="
+ "version": "20261016.1357",
+ "date": "2026-10-16T13:57:29.531Z",
+ "notes": "Retours : le bouton « Ajouter » fonctionne avec un dessin (un dessin seul suffit), et le monteur voit la zone dessinée. Diagnostic à distance.",
+ "file": "20261016.1357.maj",
+ "sha256": "5e9a914ecb6ef248e18782ed66746c691c79a7828e8283819733fa59c669ec83",
+ "size": 38555696,
+ "signature": "bH/HRcvaK+JnmbOVijAlyhAkh0o9rtgS8heLVhN0FpF6ZoUUIVmdeOsfb8NqDnBRh8xXVYuI4wKGOZf1LNzTBQ=="
 }
