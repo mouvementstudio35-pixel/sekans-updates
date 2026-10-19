@@ -1,9 +1,9 @@
 {
- "version": "20261016.2139",
- "date": "2026-10-16T21:39:25.230Z",
- "notes": "Plusieurs comptes Metricool (un par client) connectés en un clic, choix de la marque à la publication, description automatique pour tous les styles. Une fenêtre « Nouveautés » vous présente tout ça au redémarrage.",
- "file": "20261016.2139.maj",
- "sha256": "f140deb78c5daebbf950e436fea14e6a7b1cfa90338247fe7fc1a17ecc76ad8e",
- "size": 40201631,
- "signature": "VeGFc4LCTP5v+/h7wFbenin7hqH0BUxl3VscwJOSvcDHoh0gk1jxcVazfWgF8Ans49QEZJj1YuUwPE+oICErDQ=="
+ "version": "20261019.1916",
+ "date": "2026-10-19T19:16:06.791Z",
+ "notes": "Sekans consomme beaucoup moins de mémoire : un seul calcul lourd à la fois, même avec plusieurs montages en parallèle. « Programmé » s’affiche sur les vidéos programmées, et « Poster » montre les vidéos déjà prévues chaque jour, sur 30 jours. Le monteur va jusqu’à la livraison même quand un rendu est long.",
+ "file": "20261019.1916.maj",
+ "sha256": "aeff245f6a9db578218072bee97609a629f32cec36b9158ca8ed2bb86c72d930",
+ "size": 41230743,
+ "signature": "Se6FXC3BAhhYi+wbQEmnEkPLOtijNHfOquFIC0vNNNICFPsVZuVZmMqp1sfbKOjIIkPCrZL9tLtSF0VjvqPeBw=="
 }
