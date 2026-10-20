@@ -1,9 +1,9 @@
 {
- "version": "20261019.1916",
- "date": "2026-10-19T19:16:06.791Z",
- "notes": "Sekans consomme beaucoup moins de mémoire : un seul calcul lourd à la fois, même avec plusieurs montages en parallèle. « Programmé » s’affiche sur les vidéos programmées, et « Poster » montre les vidéos déjà prévues chaque jour, sur 30 jours. Le monteur va jusqu’à la livraison même quand un rendu est long.",
- "file": "20261019.1916.maj",
- "sha256": "aeff245f6a9db578218072bee97609a629f32cec36b9158ca8ed2bb86c72d930",
- "size": 41230743,
- "signature": "Se6FXC3BAhhYi+wbQEmnEkPLOtijNHfOquFIC0vNNNICFPsVZuVZmMqp1sfbKOjIIkPCrZL9tLtSF0VjvqPeBw=="
+ "version": "20261020.0938",
+ "date": "2026-10-20T09:38:52.406Z",
+ "notes": "Nouveau style « Epicu food Vannes » : reel « où manger à… » avec intro en gros titres et ses sons, sous-titres plus bas, marges adaptées au plein écran Instagram.",
+ "file": "20261020.0938.maj",
+ "sha256": "cd82e97e3b20ab3938c2b57ebfb65b1aa57d8c6bf00c4d4e01f0afef1226349b",
+ "size": 9588325,
+ "signature": "JCNyiYwhfxmowdxqq+zu7OLrJ/eb9Is/v7jY2ANXiTSk/8xL/xhLMlUmKfmTwlOECjhsNWv22macDRX9A0CUBw=="
 }
