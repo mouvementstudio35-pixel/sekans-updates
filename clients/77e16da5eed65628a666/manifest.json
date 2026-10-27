@@ -1,9 +1,9 @@
 {
- "version": "20261027.1342",
- "date": "2026-10-27T13:42:26.651Z",
+ "version": "20261027.1406",
+ "date": "2026-10-27T14:06:37.253Z",
  "notes": "Nouvelle apparence de Sekans et nouveau lanceur. Une seconde mise à jour suivra pour la nouvelle fenêtre.",
- "file": "20261027.1342.maj",
- "sha256": "02e2e36d62faa37585235d89310babffc9f40bca80aeeadfb0e9ecc53b242fae",
- "size": 58248100,
- "signature": "U0V53Xy6O33iCadwaYEM5HKyM8bvun+0DfxLgVVwUMzmiBAqPZPzQhvQGzugoyUbZu5CW7q6i+UOTyXHDC9TDA=="
+ "file": "20261027.1406.maj",
+ "sha256": "b61c08456aba82dbd0af11fc1679e3969acf72f64f3c581315731c302178e8de",
+ "size": 58238697,
+ "signature": "1cGhy17UZiGmfve4nJzs3NNTomCoEH7nxgpYOtntfSD1VPxHQKOhjNRy8QOSeIq8pb/3njFMqQN1abZKXxOIBg=="
 }
