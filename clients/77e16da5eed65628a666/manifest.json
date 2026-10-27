@@ -1,9 +1,9 @@
 {
- "version": "20261020.0938",
- "date": "2026-10-20T09:38:52.406Z",
- "notes": "Nouveau style « Epicu food Vannes » : reel « où manger à… » avec intro en gros titres et ses sons, sous-titres plus bas, marges adaptées au plein écran Instagram.",
- "file": "20261020.0938.maj",
- "sha256": "cd82e97e3b20ab3938c2b57ebfb65b1aa57d8c6bf00c4d4e01f0afef1226349b",
- "size": 9588325,
- "signature": "JCNyiYwhfxmowdxqq+zu7OLrJ/eb9Is/v7jY2ANXiTSk/8xL/xhLMlUmKfmTwlOECjhsNWv22macDRX9A0CUBw=="
+ "version": "20261027.1342",
+ "date": "2026-10-27T13:42:26.651Z",
+ "notes": "Nouvelle apparence de Sekans et nouveau lanceur. Une seconde mise à jour suivra pour la nouvelle fenêtre.",
+ "file": "20261027.1342.maj",
+ "sha256": "02e2e36d62faa37585235d89310babffc9f40bca80aeeadfb0e9ecc53b242fae",
+ "size": 58248100,
+ "signature": "U0V53Xy6O33iCadwaYEM5HKyM8bvun+0DfxLgVVwUMzmiBAqPZPzQhvQGzugoyUbZu5CW7q6i+UOTyXHDC9TDA=="
 }
