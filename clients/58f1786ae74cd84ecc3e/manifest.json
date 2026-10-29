@@ -1,9 +1,9 @@
 {
- "version": "20261028.1756",
- "date": "2026-10-28T17:56:18.690Z",
- "notes": "Nouvelle apparence de Sekans et nouveau lanceur. Une seconde mise à jour suivra pour la nouvelle fenêtre.",
- "file": "20261028.1756.maj",
- "sha256": "86691a8a54b231ef9a58dafeea29c5b15fc3c044da5748a44ad67ed6d10da746",
- "size": 78198186,
- "signature": "GpwRGet/CJR3BiqXIQn5Y/u04CSc4fsXb20Mxj28iTlTHbkAGixc695JC+hJ8QK8QXFdw2rBMOGWOz3/4tpVDQ=="
+ "version": "20261028.2356",
+ "date": "2026-10-28T23:56:40.781Z",
+ "notes": "Trois nouveaux styles : « Interview » (face caméra ou interview, sous-titres jaunes, cadre fixe), « Face cam client » (discussion face caméra au rythme rapide, sous-titres blancs fins) et « Vidéo cinématique client » (clip vertical monté sur la musique, zooms et fondu au noir ; ajoutez votre logo dans les rushs si vous le voulez en fin de vidéo). Vos styles actuels ne changent pas.",
+ "file": "20261028.2356.maj",
+ "sha256": "94e35cb3ab14742c4b18170d6f92a174807aa305e4108d8ff32aef1cbe65ba5c",
+ "size": 87458452,
+ "signature": "so624uhswsTJ6jrx2TRNCNsvlL18QEa5TMysYB4QZ+cwNCd77YLmhPZT+kZZXsLMgVmNZlW50LeEa9HcMnJgDA=="
 }
