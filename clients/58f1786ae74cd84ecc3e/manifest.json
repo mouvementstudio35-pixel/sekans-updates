@@ -1,9 +1,9 @@
 {
- "version": "20261028.2356",
- "date": "2026-10-28T23:56:40.781Z",
- "notes": "Trois nouveaux styles : « Interview » (face caméra ou interview, sous-titres jaunes, cadre fixe), « Face cam client » (discussion face caméra au rythme rapide, sous-titres blancs fins) et « Vidéo cinématique client » (clip vertical monté sur la musique, zooms et fondu au noir ; ajoutez votre logo dans les rushs si vous le voulez en fin de vidéo). Vos styles actuels ne changent pas.",
- "file": "20261028.2356.maj",
- "sha256": "94e35cb3ab14742c4b18170d6f92a174807aa305e4108d8ff32aef1cbe65ba5c",
- "size": 87458452,
- "signature": "so624uhswsTJ6jrx2TRNCNsvlL18QEa5TMysYB4QZ+cwNCd77YLmhPZT+kZZXsLMgVmNZlW50LeEa9HcMnJgDA=="
+ "version": "20261029.1044",
+ "date": "2026-10-29T10:45:15.426Z",
+ "notes": "Nouveau (bêta) : plusieurs vidéos dans un même rush. Dans « Plusieurs montages d’un coup », indiquez combien de vidéos contient votre rush : Sekans le coupe entre deux phrases et chaque montage a son propre passage. Vos retouches sont plus rapides, et la frise du lecteur est corrigée : la tête de lecture va exactement où vous cliquez. Vos styles ne changent pas.",
+ "file": "20261029.1044.maj",
+ "sha256": "d92cbcc1e40d1f2e680ccdf3acde4361a6831c45d38c65e08526815e08a4f14c",
+ "size": 34605545,
+ "signature": "4iKCu3IXATRKkruD8UxwQWZQs/WxQtVuRNhNBubsV4+CzlUuVe88IYmChUbAzxWIs9+ZrzoTJPBcD2v9qAD9DQ=="
 }
