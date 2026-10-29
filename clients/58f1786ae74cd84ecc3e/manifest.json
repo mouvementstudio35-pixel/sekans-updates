@@ -1,9 +1,9 @@
 {
- "version": "20261029.1044",
- "date": "2026-10-29T10:45:15.426Z",
- "notes": "Nouveau (bêta) : plusieurs vidéos dans un même rush. Dans « Plusieurs montages d’un coup », indiquez combien de vidéos contient votre rush : Sekans le coupe entre deux phrases et chaque montage a son propre passage. Vos retouches sont plus rapides, et la frise du lecteur est corrigée : la tête de lecture va exactement où vous cliquez. Vos styles ne changent pas.",
- "file": "20261029.1044.maj",
- "sha256": "d92cbcc1e40d1f2e680ccdf3acde4361a6831c45d38c65e08526815e08a4f14c",
- "size": 34605545,
- "signature": "4iKCu3IXATRKkruD8UxwQWZQs/WxQtVuRNhNBubsV4+CzlUuVe88IYmChUbAzxWIs9+ZrzoTJPBcD2v9qAD9DQ=="
+ "version": "20261029.1520",
+ "date": "2026-10-29T15:20:43.790Z",
+ "notes": "Correctif : la vidéo ne se fige plus sur les mouvements de caméra dans vos vlogs. Le compteur du lecteur défile normalement. Vos autres styles ne changent pas.",
+ "file": "20261029.1520.maj",
+ "sha256": "4c916513b578ef04ab26254ccae2be8d22c9731e82fe6fce7a9f726bf8e40a35",
+ "size": 94717706,
+ "signature": "iGcLMymZLJM9NIGw8sh/iprFlTcJds1t/GlMqWvLwYCRHDU4KFsdoGqFFTFPzWhHMYf+HmpenQisAlpj0/7MAQ=="
 }
