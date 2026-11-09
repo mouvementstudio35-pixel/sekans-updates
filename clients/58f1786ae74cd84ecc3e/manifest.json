@@ -1,9 +1,9 @@
 {
- "version": "20261029.1520",
- "date": "2026-10-29T15:20:43.790Z",
- "notes": "Correctif : la vidéo ne se fige plus sur les mouvements de caméra dans vos vlogs. Le compteur du lecteur défile normalement. Vos autres styles ne changent pas.",
- "file": "20261029.1520.maj",
- "sha256": "4c916513b578ef04ab26254ccae2be8d22c9731e82fe6fce7a9f726bf8e40a35",
- "size": 94717706,
- "signature": "iGcLMymZLJM9NIGw8sh/iprFlTcJds1t/GlMqWvLwYCRHDU4KFsdoGqFFTFPzWhHMYf+HmpenQisAlpj0/7MAQ=="
+ "version": "20261109.0046",
+ "date": "2026-11-09T00:47:02.868Z",
+ "notes": "Nouvelle version de Sekans : contenu, réseaux, styles, génération IA et nouveaux tarifs. Le détail est dans « Nouveautés ».",
+ "file": "20261109.0046.maj",
+ "sha256": "0a3579955300820b592c095c986c4e11fa6db2bf7ffaab309c466d43f85b6e89",
+ "size": 79983903,
+ "signature": "ffFa5yos3CCPLQfU0PGDnrcLRcftmsCPEwPYITVtnbAucxa9DIcXPF0VR8z2/0gN3JjMbRIcXTth6NpLZdKADQ=="
 }
