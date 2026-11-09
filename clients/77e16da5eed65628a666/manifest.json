@@ -1,9 +1,9 @@
 {
- "version": "20261029.1043",
- "date": "2026-10-29T10:44:02.199Z",
- "notes": "Nouveau (bêta) : plusieurs vidéos dans un même rush. Dans « Plusieurs montages d’un coup », indiquez combien de vidéos contient votre rush : Sekans le coupe entre deux phrases et chaque montage a son propre passage. Vos retouches sont plus rapides, et la frise du lecteur est corrigée : la tête de lecture va exactement où vous cliquez.",
- "file": "20261029.1043.maj",
- "sha256": "2b0ac53d89f76860a79c1159d36879333120b71ec7e6bdafbc4c2c122e7cb8d9",
- "size": 71722035,
- "signature": "Cr7yazKoOvzTOJ8LfVv3Z4MNGlHn00mqA0kYL91Q+DHJW7aP8RWXLQR7tvOQjmV+7pFFcpcoh8c6xdmqhHoWDQ=="
+ "version": "20261109.0047",
+ "date": "2026-11-09T00:48:13.528Z",
+ "notes": "Nouvelle version de Sekans : contenu, réseaux, styles, génération IA et nouveaux tarifs. Le détail est dans « Nouveautés ».",
+ "file": "20261109.0047.maj",
+ "sha256": "5d66cc3b5f8d694c8990a63900b14134fbac47d772c96d2b0598f7dd4b94d322",
+ "size": 79983620,
+ "signature": "bumBjj+AfKG0xr3Nojv/59/OGDTfFtP4fiHmepkobdcBftIvD5Vv6hcXjvyEYTZ5RQqFGLxxI7LXRsWDbe15BQ=="
 }
