@@ -1,9 +1,9 @@
 {
- "version": "20261110.2157",
- "date": "2026-11-10T21:58:14.312Z",
- "notes": "Mise à jour technique : mises à jour plus légères et installation plus fiable. Rien ne change dans vos montages.",
- "file": "20261110.2157.maj",
- "sha256": "305b7a56262fa357d6373f2b29c3fe73ff38800590bd28cdddefc002951143ef",
- "size": 80154705,
- "signature": "ZSLiOqyqdduL/X4B8WFJ8REcdXxPzb2x30VIJA3+7gkvjPHe5VRwEPP1vG3zzytATHcjO4Fy81/yonoK5fhWAA=="
+ "version": "20261110.2211",
+ "date": "2026-11-10T22:11:48.095Z",
+ "notes": "Nouveau style : « Jules Demzy — Roadmap YouTube », pour les vidéos longues 16:9 dans la DA SOMA de Jules. Il apparaît dans Styles.",
+ "file": "20261110.2211.maj",
+ "sha256": "ad0e1fb41da82ad888b0811449185accfe7fd9aa059645b19d86cb534ef39693",
+ "size": 92875102,
+ "signature": "NBXUesM2yVcHj8qZD4+ThRBekJHc0GbhqJ9UQmIfg7mAfwERAMGKt+9pSRdUq1TKeVGn28VBxise78R/QLDOCg=="
 }
