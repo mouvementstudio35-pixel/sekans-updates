@@ -1,9 +1,9 @@
 {
- "version": "20261110.1038",
- "date": "2026-11-10T10:38:35.945Z",
- "notes": "Correctif : les nouveautés de la dernière mise à jour (Contenu, Statistiques, Générer, Crédits, « Je crée ma DA »…) apparaissent maintenant dans le menu. Réglages › Logiciel affiche bien les versions.",
- "file": "20261110.1038.maj",
- "sha256": "1f688dabed38ddc1efbe6846a52cab3e56d74f21091528678409ffc6341d90e3",
- "size": 79985219,
- "signature": "KvVoT4kXTisW5HEoITiB4CTqIxEp5S61mEhYN0YRFY6wNMmixDWhV8mneR1Rx5cQnoArd11XIGWOO/gCqv0LAQ=="
+ "version": "20261110.2157",
+ "date": "2026-11-10T21:58:14.312Z",
+ "notes": "Mise à jour technique : mises à jour plus légères et installation plus fiable. Rien ne change dans vos montages.",
+ "file": "20261110.2157.maj",
+ "sha256": "305b7a56262fa357d6373f2b29c3fe73ff38800590bd28cdddefc002951143ef",
+ "size": 80154705,
+ "signature": "ZSLiOqyqdduL/X4B8WFJ8REcdXxPzb2x30VIJA3+7gkvjPHe5VRwEPP1vG3zzytATHcjO4Fy81/yonoK5fhWAA=="
 }
