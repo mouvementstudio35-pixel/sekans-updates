@@ -1,9 +1,9 @@
 {
- "version": "20261109.0046",
- "date": "2026-11-09T00:47:02.868Z",
- "notes": "Nouvelle version de Sekans : contenu, réseaux, styles, génération IA et nouveaux tarifs. Le détail est dans « Nouveautés ».",
- "file": "20261109.0046.maj",
- "sha256": "0a3579955300820b592c095c986c4e11fa6db2bf7ffaab309c466d43f85b6e89",
- "size": 79983903,
- "signature": "ffFa5yos3CCPLQfU0PGDnrcLRcftmsCPEwPYITVtnbAucxa9DIcXPF0VR8z2/0gN3JjMbRIcXTth6NpLZdKADQ=="
+ "version": "20261112.2346",
+ "date": "2026-11-12T23:46:45.631Z",
+ "notes": "",
+ "file": "20261112.2346.maj",
+ "sha256": "aa7cccff11791c719814a314cd36d24a664e49410224566a7ebeb934b1f495ff",
+ "size": 66737359,
+ "signature": "Yk7BFLcRdDrOxxdruWyFpMEWSJHIbnyw5FD1YXPyYxH+b6IcETGOsMzJTCHf9HrK5EFZeoosl8Q/R5/vibF4CQ=="
 }

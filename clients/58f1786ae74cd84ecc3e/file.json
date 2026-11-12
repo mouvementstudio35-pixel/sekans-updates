@@ -1,0 +1,17 @@
+{
+ "format": 1,
+ "client": "58f1786ae74cd84ecc3e",
+ "date": "2026-11-12T23:46:45.631Z",
+ "entrees": [
+  {
+   "version": "20261112.2346",
+   "date": "2026-11-12T23:46:45.631Z",
+   "notes": "",
+   "file": "20261112.2346.maj",
+   "sha256": "aa7cccff11791c719814a314cd36d24a664e49410224566a7ebeb934b1f495ff",
+   "size": 66737359,
+   "signature": "Yk7BFLcRdDrOxxdruWyFpMEWSJHIbnyw5FD1YXPyYxH+b6IcETGOsMzJTCHf9HrK5EFZeoosl8Q/R5/vibF4CQ=="
+  }
+ ],
+ "signature": "G0Jf/wsf9R0csr39HbyFpn+USLlZjsgKmiZJtANOEIG3U3OaAp6MYymR/IFRQ+TVS0WqaGcxBXGpT3J91OhnBA=="
+}
