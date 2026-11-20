@@ -1,0 +1,9 @@
+{
+ "version": "20261120.1051",
+ "date": "2026-11-20T10:52:32.729Z",
+ "notes": "Nouvelle version de Sekans : nouvelle interface avec l'Agent Sekans, nouveau moteur de montage, montage en ligne et prompteur studio. Relancez Sekans Studio après l'installation.",
+ "file": "20261120.1051.maj",
+ "sha256": "b7f734f850a7fe81187be30839a0f661edc63b970cc68f88dbdd351dca574dbb",
+ "size": 78077203,
+ "signature": "yXnU/9ljB2XHP7iSz0T6tXZ+1MxWRtjBPvevhl0mtCxf0iG2aNWge/r38YHPJ/xci2GrxOsypzPymjCEABAPBA=="
+}
