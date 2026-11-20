@@ -1,40 +1,17 @@
 {
  "format": 1,
  "client": "58f1786ae74cd84ecc3e",
- "date": "2026-11-12T23:48:44.414Z",
+ "date": "2026-11-20T10:24:03.390Z",
  "entrees": [
   {
-   "version": "20261112.2346",
-   "date": "2026-11-12T23:46:45.631Z",
-   "notes": "",
-   "file": "20261112.2346.maj",
-   "sha256": "aa7cccff11791c719814a314cd36d24a664e49410224566a7ebeb934b1f495ff",
-   "size": 66737359,
-   "signature": "Yk7BFLcRdDrOxxdruWyFpMEWSJHIbnyw5FD1YXPyYxH+b6IcETGOsMzJTCHf9HrK5EFZeoosl8Q/R5/vibF4CQ=="
-  },
-  {
-   "version": "20261112.2347",
-   "date": "2026-11-12T23:47:55.243Z",
-   "notes": "",
-   "file": "20261112.2347.maj",
-   "sha256": "1dea25b77ffa2f64acffeb0bb4d9cd1099e20674e10308543ed0b7a6cbf2b9af",
-   "size": 42278547,
-   "signature": "b+tjgyfVnLgEezWck6AsFYDcbpcsfMNlpJjtrUE2+WszsHIGccCbusHMl2C8o6i4YEpWl82Wgs4VqArJP5vlDw==",
-   "enchainer": true,
-   "apres": "20261112.2346"
-  },
-  {
-   "version": "20261112.2348",
-   "date": "2026-11-12T23:48:44.414Z",
-   "notes": "",
-   "file": "20261112.2348.maj",
-   "sha256": "ccb7188a00144f18ae80b128efc1924978a5da00f22f452f1153bbad5bfe279a",
-   "size": 57092672,
-   "signature": "oLVQr540qPxdZXjvsPifJrrF2A1PeA7RpQLwT1dMay8t6qOc75Ynpp1K4gRrTfF+0ZTtc1m4zUckwk+SxUxfDQ==",
-   "stylesSeuls": true,
-   "enchainer": true,
-   "apres": "20261112.2347"
+   "version": "20261120.1023",
+   "date": "2026-11-20T10:24:03.390Z",
+   "notes": "Nouvelle version de Sekans : nouvelle interface avec l'Agent Sekans, nouveau moteur de montage, montage en ligne et prompteur studio. Relancez Sekans Studio après l'installation.",
+   "file": "20261120.1023.maj",
+   "sha256": "6df1cdf280ec4fe2feeaff49db89764b2d23776edf5d316d248935b6059346ab",
+   "size": 78070770,
+   "signature": "6FsxGeoiyL33VvojCRyw4oNstRmNwE6r6Jj6iKaYUPJVEe5EkQJckhVG1O+35SeuzlxW/g8dxZuEKK/zoWc6Cw=="
   }
  ],
- "signature": "Mx9+RIcp6EREf7SN3/OdRQKyw8hl7+w4nGUmNK9mupJ2EBIwPuIOgKgOjGLgzXFNzRP+uqEQd84HQokk8BmbCA=="
+ "signature": "3EGO1cp1sTZlY0/W8ncFcZ5aRn+z0/rOIuqxFt0y7c4p2Sf/R2sGndLcSJpYNbS3+SPkUsvpnLCJtm5Isnv5Cw=="
 }
