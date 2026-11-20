@@ -1,9 +1,9 @@
 {
- "version": "20261112.2343",
- "date": "2026-11-12T23:44:22.243Z",
- "notes": "",
- "file": "20261112.2343.maj",
- "sha256": "291301f5a243e5297a6ba8ddfedd75ff1c376afec7708543a7c77581ead62cfa",
- "size": 66737557,
- "signature": "PUABEwbpwV/1KdqYLm6jzmkN7AS7kPMrkYNzNc+CCj9bPiW6wY8rTmsxiDJltMgdoFzLs6p9UdmBAGF9OXAZCQ=="
+ "version": "20261120.1020",
+ "date": "2026-11-20T10:21:42.352Z",
+ "notes": "Nouvelle version de Sekans : nouvelle interface avec l'Agent Sekans, nouveau moteur de montage, montage en ligne et prompteur studio. Relancez Sekans Studio après l'installation.",
+ "file": "20261120.1020.maj",
+ "sha256": "60e03c0bd6a16a9a4b4aa3160e836a4e6b48acfbfa8ba7b87ea30bafba229ec4",
+ "size": 78070967,
+ "signature": "0Kg+PPSaSC56zB2uCBa5fTD7vwDI+fTdRYrQTlR+Vt7X8hqvAAK33n4Egy4oabjdqsC5bQaTLBM0+LcWiFAxCw=="
 }
