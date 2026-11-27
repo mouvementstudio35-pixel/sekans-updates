@@ -1,9 +1,9 @@
 {
- "version": "20261120.1552",
- "date": "2026-11-20T15:53:11.225Z",
- "notes": "Nouvelle version de Sekans : nouvelle interface avec l'Agent Sekans, nouveau moteur de montage, montage en ligne et prompteur studio. Relancez Sekans Studio après l'installation.",
- "file": "20261120.1552.maj",
- "sha256": "ca34fda82785eb7f90666049e48cbd860cff342ba07ea9d22b7c89aefa4e8f3f",
- "size": 78077221,
- "signature": "mnLAnuhi+u0Myrg+MOpp7Fb753Ef/O4gedK6Lldv87D3Xq1t7JQ501yFpTLSW1jKg5FzrK3m9Agrsro7XZasAA=="
+ "version": "20261127.2116",
+ "date": "2026-11-27T21:17:48.019Z",
+ "notes": "Vous pouvez maintenant ajouter votre voix off (MP3, M4A ou WAV) dans Nouveau montage : elle est reconnue comme voix off. Glissez tous vos fichiers et choisissez leur rôle d'un clic.",
+ "file": "20261127.2116.maj",
+ "sha256": "8d29113682e073caf1be3905d364d94963faa568eafaaebbbd5ca5266a3c166c",
+ "size": 85444241,
+ "signature": "ZeVkb9qdkHitOGYjdWpZ6ECYOCXFzGyHp/y2ULdXnOf+5lUXnTgvZTHHTnnxiCQunk/5LbKva6Y9J5rVMOR4CQ=="
 }
