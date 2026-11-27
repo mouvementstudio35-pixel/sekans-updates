@@ -1,7 +1,7 @@
 {
  "format": 1,
  "client": "77e16da5eed65628a666",
- "date": "2026-11-27T21:17:48.019Z",
+ "date": "2026-11-27T23:15:13.931Z",
  "entrees": [
   {
    "version": "20261127.2116",
@@ -11,7 +11,19 @@
    "sha256": "8d29113682e073caf1be3905d364d94963faa568eafaaebbbd5ca5266a3c166c",
    "size": 85444241,
    "signature": "ZeVkb9qdkHitOGYjdWpZ6ECYOCXFzGyHp/y2ULdXnOf+5lUXnTgvZTHHTnnxiCQunk/5LbKva6Y9J5rVMOR4CQ=="
+  },
+  {
+   "version": "20261127.2315",
+   "date": "2026-11-27T23:15:13.931Z",
+   "notes": "",
+   "file": "20261127.2315.maj",
+   "sha256": "c707c89e15631ebe42ef6ba341dd5686d44a36d508881252f3a0845cec49fd39",
+   "size": 61855792,
+   "signature": "LGV9d+0ugbZ1YgjHaRS07X1RFY1KytFJSMjA3aHpn49/m44sH1EQvLSo6w4Y7coCpcnF3dTdDf35HkveRWBqBw==",
+   "stylesSeuls": true,
+   "enchainer": true,
+   "apres": "20261127.2116"
   }
  ],
- "signature": "OAODnbOUSRFmxyGjbvzfLl+kIj/R0/FJ1V0vzp3S3toGGAuWGrn0NeusiIZpQFg1LQ76X2FxmeKW9G4RgDyNAA=="
+ "signature": "1V4io2LZYxCriuw6xgPEVaeeqCmxlCo6c4qHPIvUUkBffzWK1tYFp1IjF6LtJxE4LSbOfuR03rFg/PfgI8IwAQ=="
 }
