@@ -1,17 +1,17 @@
 {
  "format": 1,
  "client": "commun",
- "date": "2026-11-27T22:44:26.016Z",
+ "date": "2026-11-20T10:52:32.729Z",
  "entrees": [
   {
-   "version": "20261127.2243",
-   "date": "2026-11-27T22:44:26.016Z",
-   "notes": "Glissez tous vos fichiers dans Nouveau montage (vidéos, voix off MP3/M4A/WAV, musique, photos, PDF) et choisissez leur rôle d'un clic. Un montage interrompu se reprend d'un bouton.",
-   "file": "20261127.2243.maj",
-   "sha256": "f5a6a0e1c47cdcf440b8e33fc24f57d23038fa25ce0bbef05b8df7a635f57af9",
-   "size": 85444261,
-   "signature": "EA3gFXCtUQMSRbXkrI7mQfpFAp5CQcBmfsfOlD8sJfwJRMQrQfy+rq/0hOHrmpmqAskY9MkrEi5JpH3pV+zLCQ=="
+   "version": "20261120.1051",
+   "date": "2026-11-20T10:52:32.729Z",
+   "notes": "Nouvelle version de Sekans : nouvelle interface avec l'Agent Sekans, nouveau moteur de montage, montage en ligne et prompteur studio. Relancez Sekans Studio après l'installation.",
+   "file": "20261120.1051.maj",
+   "sha256": "b7f734f850a7fe81187be30839a0f661edc63b970cc68f88dbdd351dca574dbb",
+   "size": 78077203,
+   "signature": "yXnU/9ljB2XHP7iSz0T6tXZ+1MxWRtjBPvevhl0mtCxf0iG2aNWge/r38YHPJ/xci2GrxOsypzPymjCEABAPBA=="
   }
  ],
- "signature": "gsuZkqHcFf8MKlqj7X70L0Xk3VOriMBj0eFL/vLxaIsYmCCAADBklWDvM60Pjh3GsdRZENu/NhUlQIg6HFiNCA=="
+ "signature": "xanHln9ciMoRk/Y2zW4o4TdtATVJsp5VX+71PJZiCBX46NSN4awPz/cMoT0byahLiirLNwHrazLuXHar167bDw=="
 }
